@@ -7,7 +7,7 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 
 ## Mål för veckan:
 1. Grundläggande förståelse för vad AWS och microservices är
-2. Förstå hur IAM fungerar, samt kunna sätta policys
+2. Förstå hur IAM fungerar, skapa Users, samt kunna sätta policys
 2. Kunna skapa och använda sig av en Lambdafunktion
 3. Kunna pusha upp kod till en Lambdafunktion lokalt med AWS CLI
 
