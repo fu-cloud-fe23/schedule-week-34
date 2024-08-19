@@ -16,6 +16,7 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 ### Presentationer
 
 ### Filmer
+* [6 layers of security](https://www.youtube.com/watch?v=kd33UVZhnAA)
 
 ### Länkar
 * [AWS](https://aws.amazon.com/)
@@ -24,6 +25,7 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 * [AWS CLI Download](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
 ### Övningar
+* [IAM Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-iam-bootcamp/tree/main)
 
 
 
