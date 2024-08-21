@@ -28,6 +28,8 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 * [IAM - Policies](https://vimeo.com/903273792/a8c2701bb0?share=copy)
 * [IAM - Skapa policies](https://vimeo.com/903273840/101c021cd1?share=copy)
 * [IAM - Shared Responibility Model](https://vimeo.com/905527913/322c11dcc8?share=copy) (Bonusfilm)
+* [Serverless](https://vimeo.com/930320062/431a051815?share=copy)
+* [AWS CLI - setup](https://vimeo.com/930598443/9ab4f944a3?share=copy)
 
 ### Länkar
 * [AWS](https://aws.amazon.com/)
