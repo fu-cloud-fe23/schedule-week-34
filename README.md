@@ -27,7 +27,7 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 * [IAM - Roles](https://vimeo.com/900823102/d73f59883c?share=copy)
 * [IAM - Policies](https://vimeo.com/903273792/a8c2701bb0?share=copy)
 * [IAM - Skapa policies](https://vimeo.com/903273840/101c021cd1?share=copy)
-* [IAM - Shared Responibility Model](https://vimeo.com/905527913/322c11dcc8?share=copy) *Bonusfilm 
+* [IAM - Shared Responibility Model](https://vimeo.com/905527913/322c11dcc8?share=copy) (Bonusfilm)
 
 ### Länkar
 * [AWS](https://aws.amazon.com/)
