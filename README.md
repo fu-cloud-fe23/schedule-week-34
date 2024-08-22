@@ -17,6 +17,7 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 * [Introduktion till molnet](https://docs.google.com/presentation/d/1g6pX4xMebO5Ri36lzFVL-EoSci0pcQha/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [Serverless](https://docs.google.com/presentation/d/1SastkpPGHrpCQLAnC9oUxudVY3BFyP5H/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
 * [IAM](https://docs.google.com/presentation/d/1pe4SJGKIbxVF9s2rAr9cdRjjhNkJhu9F/edit?usp=sharing&ouid=117251319654116712560&rtpof=true&sd=true)
+* [Lambda](https://docs.google.com/presentation/d/1BdE0583h_OP27XJVdmgD2tVcFb9PvYkMZMPIpjKAIg0/edit?usp=sharing)
 
 ### Filmer
 * [6 layers of security](https://www.youtube.com/watch?v=kd33UVZhnAA)
