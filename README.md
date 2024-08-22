@@ -40,6 +40,7 @@ Denna första vecka kommer vi inledningsvis att kika övergripande på vad "moln
 
 ### Övningar
 * [IAM Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-iam-bootcamp/tree/main)
+* [Lambda Bootcamp](https://github.com/fu-cloud-fe23/exercise-aws-lambda-bootcamp)
 
 
 
